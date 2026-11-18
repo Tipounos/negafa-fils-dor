@@ -45,6 +45,7 @@ function initMobileNav() {
    ========================================================================== */
 
 /* Textes FR / AR : une clé = un attribut data-i18n dans le HTML */
+/* Textes FR / AR : une clé = un attribut data-i18n dans le HTML */
 const translations = {
   "fr": {
     "skip_link": "Aller au contenu principal",
@@ -54,7 +55,7 @@ const translations = {
     "nav_gallery": "Galerie",
     "nav_contact": "Contact",
     "nav_cta": "Réserver",
-    "hero_eyebrow": "Negafa Royal Chaimae",
+    "hero_eyebrow": "Negafa Fils d’Or",
     "hero_title": "Des tenues d’exception pour le plus beau jour de votre vie",
     "hero_btn": "Voir nos collections",
     "collections_eyebrow": "Nos collections",
@@ -72,12 +73,12 @@ const translations = {
     "collections_cta": "Demander un rendez-vous",
     "ig_eyebrow": "Instagram",
     "ig_title": "Découvrez notre univers sur Instagram",
-    "ig_btn": "Suivre @negafa_royal_chaimae",
+    "ig_btn": "Suivre @negafa_fils_dor",
     "ig_reel_link": "Voir le reel",
     "approach_eyebrow": "Notre approche",
     "approach_title": "Sublimer chaque femme pour son jour unique",
-    "approach_text": "Chez Negafa Royal Chaimae, chaque mariée est accompagnée avec attention et élégance pour trouver les tenues qui reflètent parfaitement sa beauté et son histoire. Nous prenons le temps de vous écouter, de vous conseiller et de vous guider dans le choix de vos robes afin de créer une expérience unique, dans une ambiance raffinée et chaleureuse. Votre satisfaction et votre confiance sont au cœur de chaque étape de votre préparation.",
-    "approach_signature": "— Chaimae",
+    "approach_text": "Chez Negafa Fils d’Or, chaque mariée est accompagnée avec attention et élégance pour trouver les tenues qui reflètent parfaitement sa beauté et son histoire. Nous prenons le temps de vous écouter, de vous conseiller et de vous guider dans le choix de vos tenues afin de créer une expérience unique, dans une ambiance raffinée et chaleureuse. Votre satisfaction et votre confiance sont au cœur de chaque étape de votre préparation.",
+    "approach_signature": "— Negafa Fils d’Or",
     "gallery_title": "Nos créations",
     "gallery_btn": "Voir plus de créations",
     "contact_eyebrow": "Contact",
@@ -96,7 +97,7 @@ const translations = {
     "nav_gallery": "معرض الصور",
     "nav_contact": "اتصلي بنا",
     "nav_cta": "احجزي موعدك",
-    "hero_eyebrow": "نݣافة رويال شيماء",
+    "hero_eyebrow": "نݣافة فيل دور",
     "hero_title": "أزياء استثنائية لأجمل يوم في حياتك",
     "hero_btn": "اكتشفي مجموعاتنا",
     "collections_eyebrow": "مجموعاتنا",
@@ -114,12 +115,12 @@ const translations = {
     "collections_cta": "اطلبي موعداً",
     "ig_eyebrow": "إنستغرام",
     "ig_title": "اكتشفي عالمنا على إنستغرام",
-    "ig_btn": "تابعينا @negafa_royal_chaimae",
+    "ig_btn": "تابعينا @negafa_fils_dor",
     "ig_reel_link": "مشاهدة الريل",
     "approach_eyebrow": "منهجنا",
     "approach_title": "نُبرز جمال كل امرأة في يومها الفريد",
-    "approach_text": "في نݣافة رويال شيماء، تحظى كل عروس بمرافقة مهتمة وأنيقة لإيجاد الأزياء التي تعكس جمالها وقصتها بشكل مثالي. نأخذ الوقت الكافي للإصغاء إليك، ونصحك، وإرشادك في اختيار فساتينك لخلق تجربة فريدة، في أجواء راقية ودافئة. رضاك وثقتك هما في صميم كل خطوة من تحضيراتك.",
-    "approach_signature": "— شيماء",
+    "approach_text": "في نݣافة فيل دور، تحظى كل عروس بمرافقة مهتمة وأنيقة لإيجاد الأزياء التي تعكس جمالها وقصتها بشكل مثالي. نأخذ الوقت الكافي للإصغاء إليك، ونصحك، وإرشادك في اختيار أزيائك لخلق تجربة فريدة، في أجواء راقية ودافئة. رضاك وثقتك هما في صميم كل خطوة من تحضيراتك.",
+    "approach_signature": "— نݣافة فيل دور",
     "gallery_title": "إبداعاتنا",
     "gallery_btn": "اكتشفي المزيد من إبداعاتنا",
     "contact_eyebrow": "اتصلي بنا",
